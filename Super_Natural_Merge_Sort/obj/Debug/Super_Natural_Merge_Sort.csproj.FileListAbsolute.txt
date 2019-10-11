@@ -1,0 +1,10 @@
+C:\Users\Константин\source\repos\Super_Natural_Merge_Sort\Super_Natural_Merge_Sort\bin\Debug\Super_Natural_Merge_Sort.exe.config
+C:\Users\Константин\source\repos\Super_Natural_Merge_Sort\Super_Natural_Merge_Sort\bin\Debug\Super_Natural_Merge_Sort.exe
+C:\Users\Константин\source\repos\Super_Natural_Merge_Sort\Super_Natural_Merge_Sort\bin\Debug\Super_Natural_Merge_Sort.pdb
+C:\Users\Константин\source\repos\Super_Natural_Merge_Sort\Super_Natural_Merge_Sort\obj\Debug\Super_Natural_Merge_Sort.csprojAssemblyReference.cache
+C:\Users\Константин\source\repos\Super_Natural_Merge_Sort\Super_Natural_Merge_Sort\obj\Debug\Super_Natural_Merge_Sort.MainForm.resources
+C:\Users\Константин\source\repos\Super_Natural_Merge_Sort\Super_Natural_Merge_Sort\obj\Debug\Super_Natural_Merge_Sort.Properties.Resources.resources
+C:\Users\Константин\source\repos\Super_Natural_Merge_Sort\Super_Natural_Merge_Sort\obj\Debug\Super_Natural_Merge_Sort.csproj.GenerateResource.cache
+C:\Users\Константин\source\repos\Super_Natural_Merge_Sort\Super_Natural_Merge_Sort\obj\Debug\Super_Natural_Merge_Sort.csproj.CoreCompileInputs.cache
+C:\Users\Константин\source\repos\Super_Natural_Merge_Sort\Super_Natural_Merge_Sort\obj\Debug\Super_Natural_Merge_Sort.exe
+C:\Users\Константин\source\repos\Super_Natural_Merge_Sort\Super_Natural_Merge_Sort\obj\Debug\Super_Natural_Merge_Sort.pdb
